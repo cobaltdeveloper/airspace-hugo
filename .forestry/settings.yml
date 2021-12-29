@@ -8,12 +8,12 @@ sections:
   label: Homepage
 - type: document
   path: blessings-site/content/english/_index.md
-  label: Homepage (en)
+  label: Homepage
 - type: heading
   label: Blog Post
 - type: directory
   path: blessings-site/content/english/blog
-  label: Post (en)
+  label: Post
   create: documents
   match: "**/*"
   templates:
@@ -22,7 +22,7 @@ sections:
   label: Author
 - type: directory
   path: blessings-site/content/english/author
-  label: Author (en)
+  label: Author
   create: documents
   match: "**/*"
   templates:
@@ -31,7 +31,7 @@ sections:
   label: Project
 - type: directory
   path: blessings-site/content/english/project
-  label: Project (en)
+  label: Project
   create: documents
   match: "**/*"
   templates:
@@ -40,13 +40,13 @@ sections:
   label: Other Pages
 - type: directory
   path: blessings-site/content/english
-  label: Other Pages (en)
+  label: Other Pages
   create: documents
   match: "*"
   exclude: _index.md
 - type: directory
   path: blessings-site/content/english
-  label: All Pages (en)
+  label: All Pages
   create: all
   match: "**/*"
   templates:
@@ -67,7 +67,7 @@ sections:
   label: Languages
 - type: document
   path: blessings-site/config/_default/menus.en.toml
-  label: Menu (en)
+  label: Menu
 - type: directory
   path: blessings-site/i18n
   label: i18n Translations
