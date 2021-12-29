@@ -3,9 +3,9 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: Blessings
-  content: For you and your home. Blessings is a one of a kind boutique that has gifts
-    and cosmetics.
+  title: For You and Your Home
+  content: Blessings is a one of a kind boutique that has gifts of all kinds and is
+    a Merle Norman Cosmetics Studio.
   button:
     enable: false
     label: Discover Our Project
