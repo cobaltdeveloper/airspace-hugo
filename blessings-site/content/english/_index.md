@@ -50,15 +50,15 @@ cta:
     label: Directions to Blessings
     link: "#"
 funfacts:
-  enable: true
+  enable: false
   title: Blessings Has Something For Everyone
   description: Unique gifts for you and your home that are truly blessed.
   funfact_item:
   - icon: fas fa-gifts
     name: Over Different Gift Ideas
     count: "150"
-  - icon: fas fa-glasses
-    name: Article Written
+  - icon: fas fa-ring
+    name: Jew
     count: "45"
   - icon: fas fa-keyboard
     name: Projects Completed
