@@ -4,10 +4,9 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Blessings
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: 'For you and your home. Blessings has '
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
