@@ -12,7 +12,7 @@ logo = "images/Blessings-Logo.svg"
 logo_text = "Blessings Logo"
 logo_width = "200px"
 navbar_fixed = false
-phone = "+12544453333"
+phone = "254-445-3333"
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 [baidu]
 analytics_id = ""
