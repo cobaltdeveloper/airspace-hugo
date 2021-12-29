@@ -7,12 +7,12 @@ sections:
 - type: heading
   label: Homepage
 - type: document
-  path: exampleSite/content/english/_index.md
+  path: blessings-site/content/english/_index.md
   label: Homepage (en)
 - type: heading
   label: Blog Post
 - type: directory
-  path: exampleSite/content/english/blog
+  path: blessings-site/content/english/blog
   label: Post (en)
   create: documents
   match: "**/*"
@@ -21,7 +21,7 @@ sections:
 - type: heading
   label: Author
 - type: directory
-  path: exampleSite/content/english/author
+  path: blessings-site/content/english/author
   label: Author (en)
   create: documents
   match: "**/*"
@@ -30,7 +30,7 @@ sections:
 - type: heading
   label: Project
 - type: directory
-  path: exampleSite/content/english/project
+  path: blessings-site/content/english/project
   label: Project (en)
   create: documents
   match: "**/*"
@@ -39,13 +39,13 @@ sections:
 - type: heading
   label: Other Pages
 - type: directory
-  path: exampleSite/content/english
+  path: blessings-site/content/english
   label: Other Pages (en)
   create: documents
   match: "*"
   exclude: _index.md
 - type: directory
-  path: exampleSite/content/english
+  path: blessings-site/content/english
   label: All Pages (en)
   create: all
   match: "**/*"
@@ -54,26 +54,26 @@ sections:
 - type: heading
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/config.toml
+  path: blessings-site/config/_default/config.toml
   label: Configuration
 - type: document
-  path: exampleSite/config/_default/params.toml
+  path: blessings-site/config/_default/params.toml
   label: Parameters
 - type: document
   path: config.toml
   label: Variables & Plugins
 - type: document
-  path: exampleSite/config/_default/languages.toml
+  path: blessings-site/config/_default/languages.toml
   label: Languages
 - type: document
-  path: exampleSite/config/_default/menus.en.toml
+  path: blessings-site/config/_default/menus.en.toml
   label: Menu (en)
 - type: directory
-  path: exampleSite/i18n
+  path: blessings-site/i18n
   label: i18n Translations
   create: all
   match: "**/*"
-upload_dir: exampleSite/static/images
+upload_dir: blessings-site/static/images
 public_path: "/images"
 front_matter_path: ''
 use_front_matter_path: false
