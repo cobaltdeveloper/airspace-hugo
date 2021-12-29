@@ -55,8 +55,8 @@ funfacts:
   description: Unique gifts for you and your home that are truly blessed.
   funfact_item:
   - icon: fas fa-gifts
-    name: Of Different Gift Ideas
-    count: 100s
+    name: Over Different Gift Ideas
+    count: "150"
   - icon: fas fa-glasses
     name: Article Written
     count: "45"
