@@ -12,16 +12,14 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id.
+  title: About Blessings
+  description: For you and your home.
+  content: "Blessings was founded in 2020 to be the premier boutique gifts, home decor,
+    and Merle Norman Cosmetics Studio. Based in historic Dublin, Texas Blessings is
+    lead by owner and founder Susan Bradberry who believes that everyone deserves
+    to look their best. \n\nBlessings is more than a boutique gift shop, it is your
+    place to find not only gifts and cosmetics but an experience that is truly a blessing
+    to visit.\n"
   image: images/wrapper-img.png
 portfolio:
   enable: true
