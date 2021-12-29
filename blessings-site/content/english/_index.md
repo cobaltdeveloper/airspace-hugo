@@ -38,14 +38,17 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Check Out Our Unique Gifts for Your Home
+  content: |-
+    From decor to name brand kitchenware Blessings has unique and locally sourced goods for your home.
+
+    Come visit Blessings at
+    120 E Blackjack St
+    Dublin, TX 76446
   button:
     enable: true
-    label: Tell Us Your Story
-    link: contact
+    label: Directions to Blessings
+    link: "#"
 funfacts:
   enable: true
   title: Fun Facts About Us
