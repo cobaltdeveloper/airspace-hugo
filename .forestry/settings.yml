@@ -18,25 +18,11 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
 - type: heading
   label: Author
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
   create: documents
   match: "**/*"
   templates:
@@ -50,13 +36,6 @@ sections:
   match: "**/*"
   templates:
   - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
 - type: heading
   label: Other Pages
 - type: directory
@@ -66,21 +45,8 @@ sections:
   match: "*"
   exclude: _index.md
 - type: directory
-  path: exampleSite/content/french
-  label: Other Pages (fr)
-  create: documents
-  match: "*"
-  exclude: _index.md
-- type: directory
   path: exampleSite/content/english
   label: All Pages (en)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
   create: all
   match: "**/*"
   templates:
@@ -102,9 +68,6 @@ sections:
 - type: document
   path: exampleSite/config/_default/menus.en.toml
   label: Menu (en)
-- type: document
-  path: exampleSite/config/_default/menus.fr.toml
-  label: Menu (fr)
 - type: directory
   path: exampleSite/i18n
   label: i18n Translations
