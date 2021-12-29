@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 address_descriptors = false
 author = "Themefisher"
 copyright = ""
@@ -18,6 +19,11 @@ phone = "254-445-3333"
 #################### default parameters ################################
 # favicon
 favicon = "images/favicon.png"
+=======
+#################### default parameters ################################
+# favicon
+favicon = "images/favicon.png"
+>>>>>>> parent of e7a248a (Merge branch 'master' of https://github.com/cobaltdeveloper/airspace-hugo)
 # logo
 logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
@@ -49,6 +55,9 @@ custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # recaptch v3 site key
+<<<<<<< HEAD
+>>>>>>> parent of e7a248a (Merge branch 'master' of https://github.com/cobaltdeveloper/airspace-hugo)
+=======
 >>>>>>> parent of e7a248a (Merge branch 'master' of https://github.com/cobaltdeveloper/airspace-hugo)
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 
@@ -128,11 +137,15 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ############################# social site ########################
 [[social]]
 <<<<<<< HEAD
+<<<<<<< HEAD
 icon = "fab fa-facebook"
 link = "https://www.facebook.com/DublinTexasGifts/"
 title = "facebook"
 =======
 title = "facebook"
+=======
+title = "facebook"
+>>>>>>> parent of e7a248a (Merge branch 'master' of https://github.com/cobaltdeveloper/airspace-hugo)
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
@@ -155,4 +168,7 @@ link = "#"
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
+<<<<<<< HEAD
+>>>>>>> parent of e7a248a (Merge branch 'master' of https://github.com/cobaltdeveloper/airspace-hugo)
+=======
 >>>>>>> parent of e7a248a (Merge branch 'master' of https://github.com/cobaltdeveloper/airspace-hugo)
