@@ -24,15 +24,11 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: Merle Norman Cosmetics Studio
+  content: |-
+    Blessings is your convenient neighborhood source for the very finest cosmetics from Merle Norman. For years, women have relied on Merle Norman to meet their Skin Care and Color needs. Because there really is a difference.
+
+    Our staff is carefully trained and dedicated to helping you select the products that are right for you. Our long-term commitment to personalized service and a unique philosophy of "Try Before You Buy" is your assurance of satisfaction.
   button:
     enable: true
     label: View Works
